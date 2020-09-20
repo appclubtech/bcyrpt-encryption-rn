@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_bcrypt_encryption_tvOS : NSObject
+@end
+@implementation PodsDummy_Pods_bcrypt_encryption_tvOS
+@end

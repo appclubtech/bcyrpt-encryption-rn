@@ -1,0 +1,6 @@
+module Pods_bcrypt_encryption_bcrypt_encryptionTests {
+  umbrella header "Pods-bcrypt_encryption-bcrypt_encryptionTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
