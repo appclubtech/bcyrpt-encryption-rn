@@ -21,6 +21,11 @@ const styles = StyleSheet.create({
     height: 150,
     alignSelf: 'center',
   },
+  hashed: {
+    marginTop: 22,
+    fontSize: 22,
+    color: 'gray',
+  },
 });
 
 export default styles;
